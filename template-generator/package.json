@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "bin/index.js",
   "bin": {
-    "hello": "./bin/index.js"
+    "generate": "./bin/index.js"
   },
   "dependencies": {
     "commander": "^9.4.0"
